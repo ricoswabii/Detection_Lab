@@ -1,5 +1,28 @@
 # Home Detection Lab
 
+
+## 📑 Table of Contents
+
+1. [Overview](#overview)  
+2. [Tools and Technologies](#tools-and-technologies)  
+   - Elastic Stack (Elasticsearch, Logstash, Kibana)  
+   - Parrot OS  
+   - Windows  
+3. [Lab Setup](#lab-setup)  
+   - Elastic Stack Deployment  
+   - Data Collection  
+   - Kibana for Visualization  
+4. [Practices and Experiments](#practices-and-experiments)  
+   - Intrusion Detection  
+   - Nmap Scans  
+   - Process Monitoring  
+5. [Skills Gained](#skills-gained)  
+   - Real-Time Monitoring  
+   - Security Analysis  
+   - Data Visualization  
+6. [Conclusion](#conclusion)  
+
+
 ## Overview
 
 This project showcases a home detection lab that I built using Elastic Stack (Elasticsearch, Logstash, Kibana) on Parrot OS and Windows environments. The lab is designed to monitor and analyze network activities, specifically focusing on detecting suspicious behavior and enhancing my cybersecurity skills through practical experience.
